@@ -48,3 +48,16 @@ A Blender add-on for visualizing CSV data as 3D objects.
 
 ## 📁 File Structure
 
+
+---
+
+## 🙌 Credits
+
+Created by [Tejas](https://github.com/Tejas-Jadhav01)  
+Inspired by the need to make data more visual and accessible in Blender.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. Feel free to use and share!
